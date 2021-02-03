@@ -1,0 +1,21 @@
+
+@import "_header";
+
+@
+h1{color:green}
+.block {
+
+	&_item {
+	}
+
+	&_ {
+	}
+}
+.block_item {
+}
+.block_ {
+}
+
+.red {
+	color:red;
+}
